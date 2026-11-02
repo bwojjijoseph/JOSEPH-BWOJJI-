@@ -1,0 +1,59 @@
+[BWOJJI JOSEPH2.html](https://github.com/user-attachments/files/34257823/BWOJJI.JOSEPH2.html)
+
+<htm>
+<head>
+    
+    <title>My Website - BWOJJI JOSEPH</title>
+    <style>
+        body {
+            text-align: center;
+        }
+        header {
+            background: #111;
+            color:white;
+            padding: 10px 30px;
+        }
+        header img {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            border: 4px solid white;
+        }
+        section {
+            padding: 60px 70px;
+            background: white;
+            margin: 20px;
+            border-radius: 10px;
+        }
+        button {
+            padding: 12px 25px;
+            background: #ff6600;
+            color: white;
+            border: red  ;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <img src="1.jpg" alt="My Photo">
+        <h1>Hello, I'm BWOJJI JOSEPH</h1>
+        <p>Welcome to my official website,enjoy and ask whatever you need to know about me.brLets learn and archieve knowledge thank you </p>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>I am from Masaka, Uganda ,gentle wish man always free abandoned,watching is my hobby.I believe to find and solve problems in the actual day life. I like technology and building things.</p>
+    </section>
+
+    <section>
+        <h2>Contact Me</h2>
+        <p>Phone: +256752237588</p>
+        <p>Email: bwojjijoseph@gmail.com</p>
+        <button onclick="alert('Thanks for visiting!')">Say Hello</button>
+    </section>
+
+</body>
+</html>
